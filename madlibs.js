@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html>
+<!--  
+ 
+This is a mad libs game I made for a project
+on @KhanAcademy 
 
+made with JavaScript
+
+I will be adding it to my website soon.
+
+If you want to play it now go to:
+
+https://www.khanacademy.org/computer-programming/mad-libs/5821356050382848
+    
+ -->
     <head>
         <meta charset="utf-8" />
         <title>Mad Libs</title>
