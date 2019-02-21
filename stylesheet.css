@@ -3,8 +3,6 @@
             body{
                 overflow: hidden;
             }
-            
-            
             h1 {
                 text-align: center;
                 background-color: #44b891;
@@ -13,20 +11,17 @@
                 border-radius: 5px;
                 padding: 7px;
             }
-
             input {
                 border-radius: 2px;
                 border: solid;
                 border-width: 1px;
                 border-color: rgb(201, 201, 201);
             }
-
             .inputs {
                 font-weight: bold;
                 padding: 8px;
                 color: rgb(87, 87, 87);
             }
-
             #lib-button {
                 text-align: center;
                 border: none;
@@ -40,17 +35,14 @@
                 border-radius: 5px;
                 transition: 0.2s;
             }
-
             #lib-button:hover {
                 cursor: pointer;
                 box-shadow: 0px 5px 10px rgb(0, 0, 0, 0.2);
             }
-            
             #story{
                 padding:20px;
                 width:80%;
             }
-            
             p{
                 background-color:rgb(232, 232, 232);
                 color:rgb(84, 84, 84);
@@ -61,27 +53,5 @@
                 overflow-y: scroll;
                 height: 50px;
             }
-            
-            #person{
-                
-            }
-            #food{
-                
-            }
-            #act{
-                
-            }
-            #place{
-                
-            }
-            #color{
-                
-            }
-            #thing{
-                
-            }
-            #act2{
-                
-            }
-            
+
         </style>
